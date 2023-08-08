@@ -35,3 +35,10 @@ body {
     font-size: 15px;
     margin: 0px 15px;
 }
+
+.footer {
+    text-align: center;
+    background: gray;
+    color: white;
+    padding: 10px;
+}
