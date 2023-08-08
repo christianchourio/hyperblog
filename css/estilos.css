@@ -38,13 +38,6 @@ body {
     margin: 0px 15px;
 }
 
-.footer {
-    text-align: center;
-    background: gray;
-    color: white;
-    padding: 10px;
-}
-
 .cabecera .logo{
     width: 40px;
     vertical-align: middle;
