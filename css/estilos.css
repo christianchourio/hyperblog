@@ -42,3 +42,10 @@ body {
     width: 40px;
     vertical-align: middle;
 }
+
+.footer {
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+    color: #FFFFFF;
+    padding: 20px;
+}
